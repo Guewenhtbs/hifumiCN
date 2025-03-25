@@ -897,7 +897,7 @@ lesson-01:
   - g
   simplified: 次
   traditional: 次
-#------------------------------------
+
 lesson-02:
 - classifiers: []
   id:
@@ -906,223 +906,125 @@ lesson-02:
   level: '1'
   meaning:
     en:
-    - from
-    - through
-    - via
-    - to follow
-    - to obey
-    - to engage in (an activity)
-    - never (in negative sentence)
-    - (Taiwan pr. [zòng]) retainer
-    - assistant
-    - auxiliary
-    - subordinate
-    - related by common paternal grandfather or earlier ancestor
+    - from, through
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - depuis, de
   numeric: cong2
   pinyin: cóng
-  pos: *id017
+  pos: 
   simplified: 从
   traditional: 從
+
 - classifiers: []
   id:
   - 2
-  - 32
-  level: '1'
-  meaning:
-    en:
-    - surname Cuo
-    fr:
-    - traduction à compléter
-  numeric: Cuo4
-  pinyin: Cuò
-  pos: &id018
-  - v
-  - n
-  simplified: 错
-  traditional: 錯
-- classifiers: []
-  id:
   - 2
-  - 33
   level: '1'
   meaning:
     en:
-    - mistake
-    - wrong
-    - bad
-    - interlocking
-    - complex
-    - to grind
-    - to polish
-    - to alternate
-    - to stagger
-    - to miss
-    - to let slip
-    - to evade
-    - to inlay with gold or silver
+    - mistake, wrong
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - faux, être fautif, erreur
   numeric: cuo4
   pinyin: cuò
-  pos: *id018
+  pos: 
   simplified: 错
   traditional: 錯
+
 - classifiers: []
   id:
   - 2
-  - 34
+  - 3
   level: '1'
   meaning:
     en:
     - dozen (loanword)
     fr:
-    - traduction à compléter
+    - douzaine (emprunt)
   numeric: da2
   pinyin: dá
-  pos: &id019
+  pos: 
   - v
   simplified: 打
   traditional: 打
+
 - classifiers: []
   id:
   - 2
-  - 35
+  - 4
   level: '1'
   meaning:
     en:
-    - to beat
-    - to strike
-    - to hit
-    - to break
-    - to type
-    - to mix up
-    - to build
-    - to fight
-    - to fetch
-    - to make
-    - to tie up
-    - to issue
-    - to shoot
-    - to calculate
-    - to play (a game)
-    - since
-    - from
+    - to beat, to strike
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - frapper, taper
   numeric: da3
   pinyin: dǎ
-  pos: *id019
+  pos: 
   simplified: 打
   traditional: 打
+
 - classifiers: []
   id:
   - 2
-  - 36
+  - 5
   level: '1'
   meaning:
     en:
-    - to take a taxi (in town)
-    - to hitch a lift
+    - to take a taxi 
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - prendre un taxi 
   numeric: da3 che1
   pinyin: dǎ chē
   pos:
   - v
   simplified: 打车
   traditional: 打車
+
 - classifiers: []
   id:
   - 2
-  - 37
+  - 6
   level: '1'
   meaning:
     en:
     - to make a telephone call
     fr:
-    - traduction à compléter
+    - téléphoner
   numeric: da3 dian4 hua4
   pinyin: dǎ diàn huà
   pos:
   - v
   simplified: 打电话
   traditional: 打電話
+
 - classifiers: []
   id:
   - 2
-  - 38
+  - 7
   level: '1'
   meaning:
     en:
-    - to open
-    - to show (a ticket)
-    - to turn on
-    - to switch on
+    - to open, to turn on
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - ouvrir, allumer
   numeric: da3 kai1
   pinyin: dǎ kāi
   pos:
   - v
   simplified: 打开
   traditional: 打開
+
 - classifiers: []
   id:
   - 2
-  - 39
+  - 8
   level: '1'
   meaning:
     en:
-    - to play ball
     - to play with a ball
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - jouer avec une balle
   numeric: da3 qiu2
   pinyin: dǎ qiú
   pos:
@@ -1130,120 +1032,71 @@ lesson-02:
   - vn
   simplified: 打球
   traditional: 打球
+
 - classifiers: []
   id:
   - 2
-  - 40
+  - 9
   level: '1'
   meaning:
     en:
-    - big; large; great
-    - older (than another person)
-    - eldest (as in 姐)
-    - greatly; freely; fully
-    - (dialect) father
-    - (dialect) uncle (father's brother)
+    - big, large, great, older 
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - grand, âgé
   numeric: da4
   pinyin: dà
-  pos: &id020
+  pos: 
   - a
   - d
   - n
   - g
   simplified: 大
   traditional: 大
-- classifiers: []
-  id:
-  - 2
-  - 41
-  level: '1'
-  meaning:
-    en:
-    - see 夫
-    fr:
-    - traduction à compléter
-  numeric: dai4
-  pinyin: dài
-  pos: *id020
-  simplified: 大
-  traditional: 大
-- classifiers: []
-  id:
-  - 2
-  - 42
-  level: '1'
-  meaning:
-    en:
-    - the Great Learning, one of the Four Books 四书 in Confucianism
-    fr:
-    - traduction à compléter
-  numeric: Da4 xue2
-  pinyin: Dà xué
-  pos: &id021
-  - n
-  simplified: 大学
-  traditional: 大學
+
 - classifiers:
   - 所
   id:
   - 2
-  - 43
+  - 10
   level: '1'
   meaning:
     en:
-    - university
-    - college
+    - university, college
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - université
   numeric: da4 xue2
   pinyin: dà xué
-  pos: *id021
+  pos: 
   simplified: 大学
   traditional: 大學
+
 - classifiers: []
   id:
   - 2
-  - 44
+  - 11
   level: '1'
   meaning:
     en:
-    - university student
-    - college student
+    - university/college student
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - étudiant universitaire
   numeric: da4 xue2 sheng1
   pinyin: dà xué shēng
   pos:
   - n
   simplified: 大学生
   traditional: 大學生
+
 - classifiers: []
   id:
   - 2
-  - 45
+  - 12
   level: '1'
   meaning:
     en:
-    - to reach; to arrive
-    - to leave for; to go to
-    - to (a place); until (a time); up to (a point)
-    - (verb complement indicating arriving at a place or reaching a point)
-    - considerate; thoughtful; thorough
+    - to reach, to arrive
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - arriver à, à
   numeric: dao4
   pinyin: dào
   pos:
@@ -1251,280 +1104,191 @@ lesson-02:
   - p
   simplified: 到
   traditional: 到
+
 - classifiers: []
   id:
   - 2
-  - 46
+  - 13
   level: '1'
   meaning:
     en:
-    - -ly
     - 'structural particle: used before a verb or adjective, linking it to preceding
       modifying adverbial adjunct'
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - (entre un adjectifexerçant une fonction adverbiale et le verbe)
   numeric: de5
   pinyin: de
-  pos: &id022
+  pos: 
   - u
   - n
   simplified: 地
   traditional: 地
+
 - classifiers:
   - 片
   id:
   - 2
-  - 47
+  - 14
   level: '1'
   meaning:
     en:
-    - earth
-    - ground
-    - field
-    - place
-    - land
+    - earth, ground, field
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - terre, sol, lieu
   numeric: di4
   pinyin: dì
-  pos: *id022
+  pos: 
   simplified: 地
   traditional: 地
+
 - classifiers:
   - 个
   id:
   - 2
-  - 48
+  - 15
   level: '1'
   meaning:
     en:
-    - place
-    - site
-    - location
-    - venue
+    - place, site, location
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - lieu, endroit
   numeric: di4 dian3
   pinyin: dì diǎn
   pos:
   - n
   simplified: 地点
   traditional: 地點
+
 - classifiers: []
   id:
   - 2
-  - 49
+  - 16
   level: '1'
   meaning:
     en:
-    - region
-    - regional (away from the central administration)
-    - local
+    - region, local
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - region, endroit, lieu
   numeric: di4 fang1
   pinyin: dì fāng
-  pos: &id023
+  pos:
   - n
   simplified: 地方
   traditional: 地方
-- classifiers:
-  - 处
-  - 个
-  - 块
-  id:
-  - 2
-  - 50
-  level: '1'
-  meaning:
-    en:
-    - area
-    - place
-    - space
-    - room
-    - territory
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-  numeric: di4 fang5
-  pinyin: dì fang
-  pos: *id023
-  simplified: 地方
-  traditional: 地方
-lesson-03:
+
 - classifiers: []
   id:
-  - 3
-  - 1
+  - 2
+  - 17
   level: '1'
   meaning:
     en:
     - on the ground
-    - on the floor
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - sur le sol
   numeric: di4 shang5
   pinyin: dì shang
   pos:
   - s
   simplified: 地上
   traditional: 地上
+
 - classifiers:
   - 张
   - 本
   id:
-  - 3
   - 2
+  - 18
   level: '1'
   meaning:
     en:
     - map
     fr:
-    - traduction à compléter
+    - carte (géographique)
   numeric: di4 tu2
   pinyin: dì tú
   pos:
   - n
   simplified: 地图
   traditional: 地圖
+
 - classifiers: []
   id:
-  - 3
-  - 3
+  - 2
+  - 19
   level: '1'
   meaning:
     en:
-    - of; ~'s (possessive particle)
-    - (used after an attribute)
-    - (used to form a nominal expression)
-    - (used at the end of a declarative sentence for emphasis)
-    - also pr. [dì] or [di] in poetry and songs
+    - (used after an attribute), (used to form a nominal expression)
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - (utilisé après un attribut), (utilisé pour former une expression nominale)
   numeric: de5
   pinyin: de
-  pos: &id024
+  pos: 
   - u
   - n
   simplified: 的
   traditional: 的
+
 - classifiers: []
   id:
-  - 3
-  - 4
-  level: '1'
-  meaning:
-    en:
-    - a taxi; a cab (abbr. for 士)
-    fr:
-    - traduction à compléter
-  numeric: di1
-  pinyin: dī
-  pos: *id024
-  simplified: 的
-  traditional: 的
-- classifiers: []
-  id:
-  - 3
-  - 5
+  - 2
+  - 20
   level: '1'
   meaning:
     en:
     - really and truly
     fr:
-    - traduction à compléter
+    - vraiment et sincèrement
   numeric: di2
   pinyin: dí
-  pos: *id024
+  pos: 
   simplified: 的
   traditional: 的
+
 - classifiers: []
   id:
-  - 3
-  - 6
+  - 2
+  - 21
   level: '1'
   meaning:
     en:
-    - (bound form) bull's-eye; target
+    - target
     fr:
-    - traduction à compléter
+    - cible
   numeric: di4
   pinyin: dì
-  pos: *id024
+  pos: 
   simplified: 的
   traditional: 的
+
 - classifiers: []
   id:
-  - 3
-  - 7
+  - 2
+  - 22
   level: '1'
   meaning:
     en:
-    - to get
-    - to obtain
-    - to receive
+    - to get, to obtain
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - obtenir, recevoir
   numeric: de2 dao4
   pinyin: dé dào
   pos:
   - v
   simplified: 得到
   traditional: 得到
+
 - classifiers: []
   id:
-  - 3
-  - 8
+  - 2
+  - 23
   level: '1'
   meaning:
     en:
-    - class
-    - rank
-    - grade
-    - equal to
-    - same as
     - to wait for
-    - to await
-    - et cetera
-    - and so on
-    - et al. (and other authors)
-    - after
-    - as soon as
-    - once
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - attendre
   numeric: deng3
   pinyin: děng
   pos:
@@ -1532,175 +1296,70 @@ lesson-03:
   - u
   simplified: 等
   traditional: 等
-- classifiers: []
-  id:
-  - 3
-  - 9
-  level: '1'
-  meaning:
-    en:
-    - younger brother
-    - junior male
-    - I (modest word in letter)
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-  numeric: di4
-  pinyin: dì
-  pos: &id025
-  - n
-  simplified: 弟
-  traditional: 弟
-- classifiers: []
-  id:
-  - 3
-  - 10
-  level: '1'
-  meaning:
-    en:
-    - variant of 悌
-    fr:
-    - traduction à compléter
-  numeric: ti4
-  pinyin: tì
-  pos: *id025
-  simplified: 弟
-  traditional: 弟
+
 - classifiers:
   - 个
   - 位
   id:
-  - 3
-  - 11
+  - 2
+  - 24
   level: '1'
   meaning:
     en:
     - younger brother
     fr:
-    - traduction à compléter
+    - frère cadet (petit frère)
   numeric: di4 di5
   pinyin: dì di
   pos:
   - n
   simplified: 弟弟
   traditional: 弟弟
+
 - classifiers: []
   id:
-  - 3
-  - 12
+  - 2
+  - 25
   level: '1'
   meaning:
     en:
     - (prefix indicating ordinal number, as in 六 "sixth")
-    - (literary) grades in which successful candidates in the imperial examinations
-      were placed
-    - (old) residence of a high official
-    - (literary) but; however
-    - (literary) only; just
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - (préfixe indiquant le nombre ordinal, comme dans 六 "sixième")
   numeric: di4
   pinyin: dì
   pos:
   - m
   simplified: 第
   traditional: 第
+
 - classifiers: []
   id:
-  - 3
-  - 13
-  level: '1'
-  meaning:
-    en:
-    - (prefix indicating ordinal number, as in 六 "sixth")
-    - (literary) grades in which successful candidates in the imperial examinations
-      were placed
-    - (old) residence of a high official
-    - (literary) but; however
-    - (literary) only; just
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-  numeric: di4
-  pinyin: dì
-  pos:
-  - m
-  simplified: 第
-  traditional: 第
-- classifiers: []
-  id:
-  - 3
-  - 14
+  - 2
+  - 26
   level: '1'
   meaning:
     en:
     - second
-    - number two
-    - next
-    - secondary
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - deuxième
   numeric: di4 er4
   pinyin: dì èr
   pos:
   - m
   simplified: 第二
   traditional: 第二
+
 - classifiers: []
   id:
-  - 3
-  - 15
+  - 2
+  - 27
   level: '1'
   meaning:
     en:
-    - point
-    - dot
-    - drop
-    - speck
-    - o'clock
     - point (in space or time)
-    - to draw a dot
-    - to check on a list
-    - to choose
-    - to order (food in a restaurant)
-    - to touch briefly
-    - to hint
-    - to light
-    - to ignite
-    - to pour a liquid drop by drop
-    - (old) one fifth of a two-hour watch 更
-    - dot stroke in Chinese characters
-    - classifier for items
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - heure (point précis du jour)
   numeric: dian3
   pinyin: diǎn
   pos:
@@ -1710,285 +1369,200 @@ lesson-03:
   - v
   simplified: 点
   traditional: 點
+
 - classifiers: []
   id:
-  - 3
-  - 16
+  - 2
+  - 28
   level: '1'
   meaning:
     en:
-    - lightning
     - electricity
-    - electric (bound form)
-    - to get (or give) an electric shock
-    - phone call or telegram etc
-    - to send via telephone or telegram etc
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - électricité
   numeric: dian4
   pinyin: diàn
   pos:
   - n
   simplified: 电
   traditional: 電
+
 - classifiers:
   - 部
   - 通
   id:
-  - 3
-  - 17
+  - 2
+  - 29
   level: '1'
   meaning:
     en:
-    - telephone
-    - phone call
-    - phone number
+    - telephone 
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - téléphone, appareil téléphonique
   numeric: dian4 hua4
   pinyin: diàn huà
   pos:
   - n
   simplified: 电话
   traditional: 電話
+
 - classifiers:
   - 台
   id:
-  - 3
-  - 18
+  - 2
+  - 30
   level: '1'
   meaning:
     en:
     - computer
     fr:
-    - traduction à compléter
+    - ordinateur
   numeric: dian4 nao3
   pinyin: diàn nǎo
   pos:
   - n
   simplified: 电脑
   traditional: 電腦
+
 - classifiers:
   - 台
   - 个
   id:
-  - 3
-  - 19
+  - 2
+  - 31
   level: '1'
   meaning:
     en:
-    - television; TV
+    - television, TV
     fr:
-    - traduction à compléter
+    - télévision, téléviseur
   numeric: dian4 shi4
   pinyin: diàn shì
   pos:
   - n
   simplified: 电视
   traditional: 電視
+
 - classifiers:
   - 台
   id:
-  - 3
-  - 20
+  - 2
+  - 32
   level: '1'
   meaning:
     en:
     - television set
     fr:
-    - traduction à compléter
+    - poste de télévision
   numeric: dian4 shi4 ji1
   pinyin: diàn shì jī
   pos:
   - n
   simplified: 电视机
   traditional: 電視機
+
 - classifiers:
   - 部
   - 片
   - 幕
   - 场
   id:
-  - 3
-  - 21
+  - 2
+  - 33
   level: '1'
   meaning:
     en:
-    - movie; film
+    - movie, film
     fr:
-    - traduction à compléter
+    - film, cinéma
   numeric: dian4 ying3
   pinyin: diàn yǐng
   pos:
   - n
   simplified: 电影
   traditional: 電影
+
 - classifiers:
   - 家
   - 座
   id:
-  - 3
-  - 22
+  - 2
+  - 34
   level: '1'
   meaning:
     en:
-    - cinema; movie theater
+    - cinema, movie theater
     fr:
-    - traduction à compléter
+    - cinéma (lieu)
   numeric: dian4 ying3 yuan4
   pinyin: diàn yǐng yuàn
   pos:
   - n
   simplified: 电影院
   traditional: 電影院
+
 - classifiers: []
   id:
-  - 3
-  - 23
+  - 2
+  - 35
   level: '1'
   meaning:
     en:
-    - surname Dong
+    - east (direction)
     fr:
-    - traduction à compléter
-  numeric: Dong1
-  pinyin: Dōng
-  pos: &id026
-  - f
-  - b
-  simplified: 东
-  traditional: 東
-- classifiers: []
-  id:
-  - 3
-  - 24
-  level: '1'
-  meaning:
-    en:
-    - east
-    - host (i.e. sitting on east side of guest)
-    - landlord
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - est (direction)
   numeric: dong1
   pinyin: dōng
-  pos: *id026
+  pos: 
   simplified: 东
   traditional: 東
+
 - classifiers: []
   id:
-  - 3
-  - 25
+  - 2
+  - 36
   level: '1'
   meaning:
     en:
-    - east
-    - east side
-    - eastern part
-    - to the east of
+    - east, to the east of
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - Est, à l'est de
   numeric: dong1 bian5
   pinyin: dōng bian
   pos:
   - f
   simplified: 东边
   traditional: 東邊
-- classifiers: []
-  id:
-  - 3
-  - 26
-  level: '1'
-  meaning:
-    en:
-    - east and west
-    fr:
-    - traduction à compléter
-  numeric: dong1 xi1
-  pinyin: dōng xī
-  pos: &id027
-  - n
-  - f
-  - nr
-  simplified: 东西
-  traditional: 東西
+
 - classifiers:
   - 个
   - 件
   id:
-  - 3
-  - 27
+  - 2
+  - 37
   level: '1'
   meaning:
     en:
-    - thing
-    - stuff
-    - person
+    - thing, stuff
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - chose
   numeric: dong1 xi5
   pinyin: dōng xi
-  pos: *id027
+  pos: 
   simplified: 东西
   traditional: 東西
-- classifiers: []
-  id:
-  - 3
-  - 28
-  level: '1'
-  meaning:
-    en:
-    - (of sth) to move
-    - to set in movement
-    - to displace
-    - to touch
-    - to make use of
-    - to stir (emotions)
-    - to alter
-    - abbr. for 动词, verb
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-  numeric: dong4
-  pinyin: dòng
-  pos:
-  - v
-  - vn
-  simplified: 动
-  traditional: 動
+
 - classifiers:
   - 个
   id:
-  - 3
-  - 29
+  - 2
+  - 38
   level: '1'
   meaning:
     en:
-    - movement; motion; action
-    - to act; to move
+    - movement, motion, action
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - geste, mouvement
   numeric: dong4 zuo4
   pinyin: dòng zuò
   pos:
@@ -1996,114 +1570,49 @@ lesson-03:
   - v
   simplified: 动作
   traditional: 動作
+
 - classifiers: []
   id:
-  - 3
-  - 30
+  - 2
+  - 39
   level: '1'
   meaning:
     en:
-    - surname Du
+    - all, both
     fr:
-    - traduction à compléter
-  numeric: Du1
-  pinyin: Dū
-  pos: &id028
-  - d
-  - g
-  simplified: 都
-  traditional: 都
-- classifiers: []
-  id:
-  - 3
-  - 31
-  level: '1'
-  meaning:
-    en:
-    - all; both; entirely
-    - (used for emphasis) even
-    - already
-    - (not) at all
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - tout, tous
   numeric: dou1
   pinyin: dōu
-  pos: *id028
+  pos: 
   simplified: 都
   traditional: 都
+
 - classifiers: []
   id:
-  - 3
-  - 32
+  - 2
+  - 40
   level: '1'
   meaning:
     en:
-    - capital city
-    - metropolis
+    - to read aloud, to study (a subject in school)
     fr:
-    - traduction à compléter
-    - traduction à compléter
-  numeric: du1
-  pinyin: dū
-  pos: *id028
-  simplified: 都
-  traditional: 都
-- classifiers: []
-  id:
-  - 3
-  - 33
-  level: '1'
-  meaning:
-    en:
-    - comma
-    - phrase marked by pause
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-  numeric: dou4
-  pinyin: dòu
-  pos: &id029
-  - v
-  simplified: 读
-  traditional: 讀
-- classifiers: []
-  id:
-  - 3
-  - 34
-  level: '1'
-  meaning:
-    en:
-    - to read out; to read aloud
-    - to read
-    - to attend (school); to study (a subject in school)
-    - to pronounce
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - lire à haute voix, étudier
   numeric: du2
   pinyin: dú
-  pos: *id029
+  pos: 
   simplified: 读
   traditional: 讀
+
 - classifiers: []
   id:
-  - 3
-  - 35
+  - 2
+  - 41
   level: '1'
   meaning:
     en:
     - to read a book
-    - to study
-    - to attend school
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - lire un livre
   numeric: du2 shu1
   pinyin: dú shū
   pos:
@@ -2111,38 +1620,17 @@ lesson-03:
   - vn
   simplified: 读书
   traditional: 讀書
+
 - classifiers: []
   id:
-  - 3
-  - 36
+  - 2
+  - 42
   level: '1'
   meaning:
     en:
-    - right; correct
-    - towards; at; for
-    - concerning; regarding
-    - to treat (sb a certain way)
-    - to face
-    - (bound form) opposite; facing; matching
-    - to match together; to adjust
-    - to fit; to suit
-    - to answer; to reply
-    - to add; to pour in (a fluid)
-    - to check; to compare
-    - 'classifier: couple; pair'
+    - right, correct
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - correct, juste
   numeric: dui4
   pinyin: duì
   pos:
@@ -2152,42 +1640,34 @@ lesson-03:
   - a
   simplified: 对
   traditional: 對
+
 - classifiers: []
   id:
-  - 3
-  - 37
+  - 2
+  - 43
   level: '1'
   meaning:
     en:
-    - I'm sorry; excuse me; I beg your pardon
-    - to let (sb) down; to disappoint
+    - I'm sorry, excuse me
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - excusez-moi, pardon
   numeric: dui4 bu5 qi3
   pinyin: duì bu qǐ
   pos:
   - v
   simplified: 对不起
   traditional: 對不起
+
 - classifiers: []
   id:
-  - 3
-  - 38
+  - 2
+  - 44
   level: '1'
   meaning:
     en:
-    - many; much
-    - too many; in excess
-    - (after a numeral) ... odd
-    - how (to what extent) (Taiwan pr. [duó])
-    - (bound form) multi-; poly-
+    - many, much
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - nombreux, plus de , davantage
   numeric: duo1
   pinyin: duō
   pos:
@@ -2199,59 +1679,50 @@ lesson-03:
   - g
   simplified: 多
   traditional: 多
+
 - classifiers: []
   id:
-  - 3
-  - 39
+  - 2
+  - 45
   level: '1'
   meaning:
     en:
-    - number
-    - amount
-    - somewhat
+    - number, amount
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - nombre, quantité
   numeric: duo1 shao3
   pinyin: duō shǎo
-  pos: &id030
+  pos: 
   - r
   simplified: 多少
   traditional: 多少
+
 - classifiers: []
   id:
-  - 3
-  - 40
+  - 2
+  - 46
   level: '1'
   meaning:
     en:
     - how much?
-    - how many?
-    - (phone number, student ID etc) what number?
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - combien?
   numeric: duo1 shao5
   pinyin: duō shao
-  pos: *id030
+  pos: 
   simplified: 多少
   traditional: 多少
+
 - classifiers: []
   id:
-  - 3
-  - 41
+  - 2
+  - 47
   level: '1'
   meaning:
     en:
     - to be hungry
-    - hungry
-    - to starve (sb)
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - avoir faim
   numeric: e4
   pinyin: è
   pos:
@@ -2259,36 +1730,34 @@ lesson-03:
   - a
   simplified: 饿
   traditional: 餓
+
 - classifiers: []
   id:
-  - 3
-  - 42
+  - 2
+  - 48
   level: '1'
   meaning:
     en:
     - son
     fr:
-    - traduction à compléter
+    - fils
   numeric: er2 zi5
   pinyin: ér zi
   pos:
   - n
   simplified: 儿子
   traditional: 兒子
+
 - classifiers: []
   id:
-  - 3
-  - 43
+  - 2
+  - 49
   level: '1'
   meaning:
     en:
     - two
-    - '2'
-    - (Beijing dialect) stupid
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - deux
   numeric: er4
   pinyin: èr
   pos:
@@ -2296,56 +1765,53 @@ lesson-03:
   - t
   simplified: 二
   traditional: 二
+
 - classifiers:
   - 碗
   - 顿
   id:
-  - 3
-  - 44
+  - 2
+  - 50
   level: '1'
   meaning:
     en:
-    - cooked rice
-    - meal
-    - (loanword) fan
-    - devotee
+    - cooked rice (meal)
     fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
+    - riz cuit (repas)
   numeric: fan4
   pinyin: fàn
   pos:
   - n
   simplified: 饭
   traditional: 飯
+
 - classifiers:
   - 家
   - 个
   id:
-  - 3
-  - 45
+  - 2
+  - 51
   level: '1'
   meaning:
     en:
     - restaurant
-    - hotel
     fr:
-    - traduction à compléter
-    - traduction à compléter
+    - restaurant
   numeric: fan4 dian4
   pinyin: fàn diàn
   pos:
   - n
   simplified: 饭店
   traditional: 飯店
+
+#-------------------------------------------------
+lesson-03:
 - classifiers:
   - 间
   - 个
   id:
   - 3
-  - 46
+  - 1
   level: '1'
   meaning:
     en:
@@ -2606,21 +2072,7 @@ lesson-04:
   - a
   simplified: 干
   traditional: 乹
-- classifiers: []
-  id:
-  - 4
-  - 8
-  level: '1'
-  meaning:
-    en:
-    - surname Gan
-    fr:
-    - traduction à compléter
-  numeric: Gan1
-  pinyin: Gān
-  pos: *id032
-  simplified: 干
-  traditional: 乾
+
 - classifiers: []
   id:
   - 4
@@ -2663,21 +2115,7 @@ lesson-04:
   pos: *id032
   simplified: 干
   traditional: 亁
-- classifiers: []
-  id:
-  - 4
-  - 11
-  level: '1'
-  meaning:
-    en:
-    - surname Gan
-    fr:
-    - traduction à compléter
-  numeric: Gan1
-  pinyin: Gān
-  pos: *id032
-  simplified: 干
-  traditional: 干
+
 - classifiers: []
   id:
   - 4
@@ -2769,25 +2207,7 @@ lesson-04:
   - v
   simplified: 干什么
   traditional: 幹什麼
-- classifiers: []
-  id:
-  - 4
-  - 16
-  level: '1'
-  meaning:
-    en:
-    - surname Gao
-    fr:
-    - traduction à compléter
-  numeric: Gao1
-  pinyin: Gāo
-  pos: &id033
-  - a
-  - ad
-  - v
-  - g
-  simplified: 高
-  traditional: 高
+
 - classifiers: []
   id:
   - 4
@@ -3115,24 +2535,7 @@ lesson-04:
   - n
   simplified: 工作
   traditional: 工作
-- classifiers: []
-  id:
-  - 4
-  - 33
-  level: '1'
-  meaning:
-    en:
-    - surname Guan
-    fr:
-    - traduction à compléter
-  numeric: Guan1
-  pinyin: Guān
-  pos: &id038
-  - v
-  - n
-  - nr
-  simplified: 关
-  traditional: 關
+
 - classifiers: []
   id:
   - 4
@@ -3197,22 +2600,7 @@ lesson-04:
   - g
   simplified: 贵
   traditional: 貴
-- classifiers: []
-  id:
-  - 4
-  - 37
-  level: '1'
-  meaning:
-    en:
-    - surname Guo
-    fr:
-    - traduction à compléter
-  numeric: Guo2
-  pinyin: Guó
-  pos: &id039
-  - n
-  simplified: 国
-  traditional: 國
+
 - classifiers:
   - 个
   id:
@@ -3270,25 +2658,7 @@ lesson-04:
   - s
   simplified: 国外
   traditional: 國外
-- classifiers: []
-  id:
-  - 4
-  - 41
-  level: '1'
-  meaning:
-    en:
-    - surname Guo
-    fr:
-    - traduction à compléter
-  numeric: Guo1
-  pinyin: Guō
-  pos: &id040
-  - u
-  - v
-  - d
-  - g
-  simplified: 过
-  traditional: 過
+
 - classifiers: []
   id:
   - 4
@@ -3333,23 +2703,7 @@ lesson-04:
   pos: *id040
   simplified: 过
   traditional: 過
-- classifiers: []
-  id:
-  - 4
-  - 44
-  level: '1'
-  meaning:
-    en:
-    - surname Huan
-    fr:
-    - traduction à compléter
-  numeric: Huan2
-  pinyin: Huán
-  pos: &id041
-  - d
-  - v
-  simplified: 还
-  traditional: 還
+
 - classifiers: []
   id:
   - 4
@@ -3761,21 +3115,7 @@ lesson-05:
   - n
   simplified: 和
   traditional: 咊
-- classifiers: []
-  id:
-  - 5
-  - 14
-  level: '1'
-  meaning:
-    en:
-    - surname He
-    fr:
-    - traduction à compléter
-  numeric: He2
-  pinyin: Hé
-  pos: *id046
-  simplified: 和
-  traditional: 和
+
 - classifiers: []
   id:
   - 5
@@ -3912,24 +3252,7 @@ lesson-05:
   - d
   simplified: 很
   traditional: 很
-- classifiers: []
-  id:
-  - 5
-  - 22
-  level: '1'
-  meaning:
-    en:
-    - surname Hou
-    fr:
-    - traduction à compléter
-  numeric: Hou4
-  pinyin: Hòu
-  pos: &id047
-  - f
-  - g
-  - t
-  simplified: 后
-  traditional: 后
+
 - classifiers: []
   id:
   - 5
@@ -4022,24 +3345,7 @@ lesson-05:
   - t
   simplified: 后天
   traditional: 後天
-- classifiers: []
-  id:
-  - 5
-  - 27
-  level: '1'
-  meaning:
-    en:
-    - surname Hua
-    fr:
-    - traduction à compléter
-  numeric: Hua1
-  pinyin: Huā
-  pos: &id048
-  - v
-  - n
-  - a
-  simplified: 花
-  traditional: 花
+
 - classifiers:
   - 朵
   - 支
@@ -4819,23 +4125,7 @@ lesson-06:
   pos: *id056
   simplified: 叫
   traditional: 呌
-- classifiers: []
-  id:
-  - 6
-  - 15
-  level: '1'
-  meaning:
-    en:
-    - surname Jiao
-    fr:
-    - traduction à compléter
-  numeric: Jiao4
-  pinyin: Jiào
-  pos: &id057
-  - v
-  - g
-  simplified: 教
-  traditional: 教
+
 - classifiers: []
   id:
   - 6
@@ -5826,21 +5116,7 @@ lesson-07:
   pos: *id061
   simplified: 累
   traditional: 累
-- classifiers: []
-  id:
-  - 7
-  - 10
-  level: '1'
-  meaning:
-    en:
-    - surname Lei
-    fr:
-    - traduction à compléter
-  numeric: Lei2
-  pinyin: Léi
-  pos: *id061
-  simplified: 累
-  traditional: 纍
+
 - classifiers: []
   id:
   - 7
@@ -5860,24 +5136,7 @@ lesson-07:
   pos: *id061
   simplified: 累
   traditional: 纍
-- classifiers: []
-  id:
-  - 7
-  - 12
-  level: '1'
-  meaning:
-    en:
-    - surname Leng
-    fr:
-    - traduction à compléter
-  numeric: Leng3
-  pinyin: Lěng
-  pos: &id062
-  - a
-  - ad
-  - g
-  simplified: 冷
-  traditional: 冷
+
 - classifiers: []
   id:
   - 7
@@ -5933,21 +5192,7 @@ lesson-07:
   pos: *id063
   simplified: 里
   traditional: 裡
-- classifiers: []
-  id:
-  - 7
-  - 16
-  level: '1'
-  meaning:
-    en:
-    - Li (surname)
-    fr:
-    - traduction à compléter
-  numeric: Li3
-  pinyin: Lǐ
-  pos: *id063
-  simplified: 里
-  traditional: 里
+
 - classifiers: []
   id:
   - 7
@@ -6071,22 +5316,7 @@ lesson-07:
   - t
   simplified: 六
   traditional: 六
-- classifiers: []
-  id:
-  - 7
-  - 22
-  level: '1'
-  meaning:
-    en:
-    - surname Lou
-    fr:
-    - traduction à compléter
-  numeric: Lou2
-  pinyin: Lóu
-  pos: &id064
-  - n
-  simplified: 楼
-  traditional: 樓
+
 - classifiers:
   - 层
   - 座
@@ -6144,23 +5374,7 @@ lesson-07:
   - s
   simplified: 楼下
   traditional: 樓下
-- classifiers: []
-  id:
-  - 7
-  - 26
-  level: '1'
-  meaning:
-    en:
-    - surname Lu
-    fr:
-    - traduction à compléter
-  numeric: Lu4
-  pinyin: Lù
-  pos: &id065
-  - n
-  - qv
-  simplified: 路
-  traditional: 路
+
 - classifiers:
   - 条
   id:
@@ -6414,24 +5628,7 @@ lesson-07:
   - an
   simplified: 忙
   traditional: 忙
-- classifiers: []
-  id:
-  - 7
-  - 40
-  level: '1'
-  meaning:
-    en:
-    - surname Mao
-    fr:
-    - traduction à compléter
-  numeric: Mao2
-  pinyin: Máo
-  pos: &id067
-  - nr
-  - n
-  - q
-  simplified: 毛
-  traditional: 毛
+
 - classifiers: []
   id:
   - 7
@@ -6636,23 +5833,7 @@ lesson-07:
   - n
   simplified: 妹妹
   traditional: 妹妹
-- classifiers: []
-  id:
-  - 7
-  - 50
-  level: '1'
-  meaning:
-    en:
-    - surname Men
-    fr:
-    - traduction à compléter
-  numeric: Men2
-  pinyin: Mén
-  pos: &id069
-  - n
-  - q
-  simplified: 门
-  traditional: 門
+
 lesson-08:
 - classifiers:
   - 扇
@@ -7115,38 +6296,7 @@ lesson-08:
   - r
   simplified: 哪些
   traditional: 哪些
-- classifiers: []
-  id:
-  - 8
-  - 24
-  level: '1'
-  meaning:
-    en:
-    - surname Na
-    fr:
-    - traduction à compléter
-  numeric: Na1
-  pinyin: Nā
-  pos: &id073
-  - r
-  - c
-  simplified: 那
-  traditional: 那
-- classifiers: []
-  id:
-  - 8
-  - 25
-  level: '1'
-  meaning:
-    en:
-    - surname Nuo
-    fr:
-    - traduction à compléter
-  numeric: Nuo2
-  pinyin: Nuó
-  pos: *id073
-  simplified: 那
-  traditional: 那
+
 - classifiers: []
   id:
   - 8
@@ -7452,23 +6602,7 @@ lesson-08:
   - n
   simplified: 男生
   traditional: 男生
-- classifiers: []
-  id:
-  - 8
-  - 43
-  level: '1'
-  meaning:
-    en:
-    - surname Nan
-    fr:
-    - traduction à compléter
-  numeric: Nan2
-  pinyin: Nán
-  pos: &id076
-  - b
-  - f
-  simplified: 南
-  traditional: 南
+
 - classifiers: []
   id:
   - 8
@@ -7594,23 +6728,7 @@ lesson-08:
   pos: *id078
   simplified: 呢
   traditional: 呢
-- classifiers: []
-  id:
-  - 8
-  - 50
-  level: '1'
-  meaning:
-    en:
-    - surname Neng
-    fr:
-    - traduction à compléter
-  numeric: Neng2
-  pinyin: Néng
-  pos: &id079
-  - v
-  - g
-  simplified: 能
-  traditional: 能
+
 lesson-09:
 - classifiers: []
   id:
@@ -7683,24 +6801,7 @@ lesson-09:
   - r
   simplified: 你们
   traditional: 你們
-- classifiers: []
-  id:
-  - 9
-  - 5
-  level: '1'
-  meaning:
-    en:
-    - surname Nian
-    fr:
-    - traduction à compléter
-  numeric: Nian2
-  pinyin: Nián
-  pos: &id081
-  - qt
-  - t
-  - n
-  simplified: 年
-  traditional: 年
+
 - classifiers:
   - 个
   id:
@@ -8231,23 +7332,7 @@ lesson-09:
   - n
   simplified: 前天
   traditional: 前天
-- classifiers: []
-  id:
-  - 9
-  - 32
-  level: '1'
-  meaning:
-    en:
-    - surname Qian
-    fr:
-    - traduction à compléter
-  numeric: Qian2
-  pinyin: Qián
-  pos: &id086
-  - n
-  - nr
-  simplified: 钱
-  traditional: 錢
+
 - classifiers:
   - 笔
   id:
@@ -8560,25 +7645,7 @@ lesson-09:
   - ad
   simplified: 认真
   traditional: 認真
-- classifiers: []
-  id:
-  - 9
-  - 47
-  level: '1'
-  meaning:
-    en:
-    - abbr. for 本, Japan
-    fr:
-    - traduction à compléter
-  numeric: Ri4
-  pinyin: Rì
-  pos: &id087
-  - t
-  - g
-  - b
-  - qt
-  simplified: 日
-  traditional: 日
+
 - classifiers: []
   id:
   - 9
@@ -8644,23 +7711,7 @@ lesson-09:
   simplified: 肉
   traditional: 肉
 lesson-10:
-- classifiers: []
-  id:
-  - 10
-  - 1
-  level: '1'
-  meaning:
-    en:
-    - surname San
-    fr:
-    - traduction à compléter
-  numeric: San1
-  pinyin: Sān
-  pos: &id088
-  - m
-  - t
-  simplified: 三
-  traditional: 三
+
 - classifiers: []
   id:
   - 10
@@ -8678,22 +7729,7 @@ lesson-10:
   pos: *id088
   simplified: 三
   traditional: 三
-- classifiers: []
-  id:
-  - 10
-  - 3
-  level: '1'
-  meaning:
-    en:
-    - surname Shan
-    fr:
-    - traduction à compléter
-  numeric: Shan1
-  pinyin: Shān
-  pos: &id089
-  - n
-  simplified: 山
-  traditional: 山
+
 - classifiers:
   - 座
   id:
@@ -9349,23 +8385,7 @@ lesson-10:
   - n
   simplified: 手机
   traditional: 手機
-- classifiers: []
-  id:
-  - 10
-  - 35
-  level: '1'
-  meaning:
-    en:
-    - abbr. for 书经
-    fr:
-    - traduction à compléter
-  numeric: Shu1
-  pinyin: Shū
-  pos: &id093
-  - n
-  - g
-  simplified: 书
-  traditional: 書
+
 - classifiers:
   - 本
   - 册
@@ -9469,22 +8489,7 @@ lesson-10:
   - r
   simplified: 谁
   traditional: 誰
-- classifiers: []
-  id:
-  - 10
-  - 41
-  level: '1'
-  meaning:
-    en:
-    - surname Shui
-    fr:
-    - traduction à compléter
-  numeric: Shui3
-  pinyin: Shuǐ
-  pos: &id094
-  - n
-  simplified: 水
-  traditional: 水
+
 - classifiers: []
   id:
   - 10
@@ -10382,27 +9387,7 @@ lesson-11:
   - vn
   simplified: 喜欢
   traditional: 喜歡
-- classifiers: []
-  id:
-  - 11
-  - 38
-  level: '1'
-  meaning:
-    en:
-    - the West
-    - abbr. for Spain 牙
-    - Spanish
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-  numeric: Xi1
-  pinyin: Xī
-  pos: &id098
-  - f
-  - b
-  simplified: 西
-  traditional: 西
+
 - classifiers: []
   id:
   - 11
@@ -10912,26 +9897,7 @@ lesson-12:
   - v
   simplified: 谢谢
   traditional: 謝謝
-- classifiers: []
-  id:
-  - 12
-  - 14
-  level: '1'
-  meaning:
-    en:
-    - abbr. for Xinjiang 疆 or Singapore 坡
-    - surname Xin
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-  numeric: Xin1
-  pinyin: Xīn
-  pos: &id100
-  - a
-  - d
-  - b
-  simplified: 新
-  traditional: 新
+
 - classifiers: []
   id:
   - 12
@@ -11268,25 +10234,7 @@ lesson-12:
   pos: *id102
   simplified: 要
   traditional: 要
-- classifiers: []
-  id:
-  - 12
-  - 30
-  level: '1'
-  meaning:
-    en:
-    - surname Ye
-    fr:
-    - traduction à compléter
-  numeric: Ye3
-  pinyin: Yě
-  pos: &id103
-  - d
-  - y
-  - u
-  - b
-  simplified: 也
-  traditional: 也
+
 - classifiers: []
   id:
   - 12
@@ -11902,25 +10850,7 @@ lesson-13:
   pos: *id105
   simplified: 雨
   traditional: 雨
-- classifiers: []
-  id:
-  - 13
-  - 12
-  level: '1'
-  meaning:
-    en:
-    - surname Yuan
-    - the Yuan or Mongol dynasty (1279-1368)
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-  numeric: Yuan2
-  pinyin: Yuán
-  pos: &id106
-  - q
-  - tg
-  simplified: 元
-  traditional: 元
+
 - classifiers: []
   id:
   - 13
@@ -12625,28 +11555,7 @@ lesson-13:
   - n
   simplified: 知识
   traditional: 知識
-- classifiers: []
-  id:
-  - 13
-  - 46
-  level: '1'
-  meaning:
-    en:
-    - China
-    - Chinese
-    - surname Zhong
-    fr:
-    - traduction à compléter
-    - traduction à compléter
-    - traduction à compléter
-  numeric: Zhong1
-  pinyin: Zhōng
-  pos: &id112
-  - f
-  - b
-  - v
-  simplified: 中
-  traditional: 中
+
 - classifiers: []
   id:
   - 13
@@ -13247,23 +12156,7 @@ lesson-14:
   - t
   simplified: 昨天
   traditional: 昨天
-- classifiers: []
-  id:
-  - 14
-  - 25
-  level: '1'
-  meaning:
-    en:
-    - surname Zuo
-    fr:
-    - traduction à compléter
-  numeric: Zuo3
-  pinyin: Zuǒ
-  pos: &id117
-  - f
-  - a
-  simplified: 左
-  traditional: 左
+
 - classifiers: []
   id:
   - 14
@@ -13315,22 +12208,7 @@ lesson-14:
   - f
   simplified: 左边
   traditional: 左邊
-- classifiers: []
-  id:
-  - 14
-  - 28
-  level: '1'
-  meaning:
-    en:
-    - surname Zuo
-    fr:
-    - traduction à compléter
-  numeric: Zuo4
-  pinyin: Zuò
-  pos: &id118
-  - v
-  simplified: 坐
-  traditional: 坐
+
 - classifiers: []
   id:
   - 14
